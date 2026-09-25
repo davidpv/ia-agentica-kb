@@ -13,7 +13,7 @@
 
 | Fecha | Fichero | Resumen |
 |---|---|---|
-| 2026-09-25 | [deltas/2026-09-25.md](deltas/2026-09-25.md) | Arranque KB + mapa base |
+| 2026-09-25 | [deltas/2026-09-25.md](deltas/2026-09-25.md) | Claude Code lee AGENTS.md; AGENTS.md como manifiesto de coordinación multiagente |
 
 ## Cómo usar esta KB
 
