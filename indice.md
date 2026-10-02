@@ -7,7 +7,7 @@
 | Documento | Descripción | Fecha |
 |---|---|---|
 | [mapa-base.md](mapa-base.md) | Estado del arte (estado cero) | 2026-09-25 |
-| [glosario.md](glosario.md) | Términos operativos (vivo) | 2026-09-25 |
+| [glosario.md](glosario.md) | Términos operativos (vivo) | 2026-10-02 |
 | [deltas/](deltas/) | Un fichero por viernes con novedades | — |
 
 ## Deltas
@@ -15,6 +15,7 @@
 | Fecha | Fichero | Resumen |
 |---|---|---|
 | 2026-09-25 | [deltas/2026-09-25.md](deltas/2026-09-25.md) | Claude Code lee AGENTS.md; AGENTS.md como manifiesto de coordinación multiagente |
+| 2026-10-02 | [deltas/2026-10-02.md](deltas/2026-10-02.md) | Higiene de instructions (prompt-audit); gobernanza de proveedor/WebFetch; progressive disclosure de skills con evidencia |
 
 ## Cómo usar esta KB
 
